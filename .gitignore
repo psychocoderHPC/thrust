@@ -5,3 +5,19 @@ targets/
 *.sconsign.dblite
 *.pgm
 *~
+
+# tmp files
+*~
+
+# netbeans project files
+/nbproject/
+
+# Code::Blocks project files
+/*.cbp
+/*.layout
+
+# python byte code
+*.pyc
+
+# original backup files
+*.orig
